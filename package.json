@@ -1,0 +1,14 @@
+{
+  "name": "tradelink_tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "taskA": "node task_A_one.js",
+    "taskA2": "node task_A_two.js"
+    
+  },
+  "author": "steve",
+  "license": "ISC"
+}
